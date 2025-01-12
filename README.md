@@ -27,4 +27,7 @@ chmod +x setup.sh
 mv ../Web-Dev-Setup ../$preferredName
 cd ../$preferredName
 rm setup.sh
+echo ""
+echo "Setup Complete!"
+echo ""
 ```

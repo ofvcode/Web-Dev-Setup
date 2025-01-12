@@ -7,7 +7,7 @@ Setup script that creates files and directories for a basic web development envi
 * Move into the directory `cd Web-Dev-Setup`
 * Make sure to `chmod +x setup.sh`
 * Then you can `./setup.sh` to run the script
-* Make sure to rename the repo to the specific folder name you want `mv ../Web-Dev-Setup ../preferredName`
+* Make sure to rename "preferredName" to the specific folder name you want `mv ../Web-Dev-Setup ../preferredName`
 * Then `cd ../preferredName`
 * Removes setup.sh file `rm setup.sh`
 

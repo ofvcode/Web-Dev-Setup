@@ -3,7 +3,7 @@ Setup script that creates files and directories for a basic web development envi
 
 
 # How to use ? ( for non tech-savy people )
-* Clone the repository `https://github.com/ofvcode/Web-Dev-Setup.git`
+* Clone the repository `git clone https://github.com/ofvcode/Web-Dev-Setup.git`
 * Move into the directory `cd Web-Dev-Setup`
 * Make sure to `chmod +x setup.sh`
 * Then you can `./setup.sh` to run the script
@@ -13,7 +13,7 @@ Setup script that creates files and directories for a basic web development envi
 Just Commands: 
 
 ```
-https://github.com/ofvcode/Web-Dev-Setup.git
+git clone https://github.com/ofvcode/Web-Dev-Setup.git
 cd Web-Dev-Setup
 chmod +x setup.sh
 ./setup.sh

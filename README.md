@@ -11,14 +11,18 @@ Setup script that creates files and directories for a basic web development envi
 * Then `cd ../preferredName`
 * Removes setup.sh file `rm setup.sh`
 
-Just Commands: 
+# Just Commands ( even easier to just copy and paste ): 
 
 ```
+echo ""
+echo ""
+echo "What folder name do you want your website to be called? "
+read preferredName
 git clone https://github.com/ofvcode/Web-Dev-Setup.git
 cd Web-Dev-Setup
 chmod +x setup.sh
 ./setup.sh
-mv ../Web-Dev-Setup ../preferredName
-cd ../preferredName
+mv ../Web-Dev-Setup ../$preferredName
+cd ../$preferredName
 rm setup.sh
 ```

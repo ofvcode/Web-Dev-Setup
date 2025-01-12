@@ -17,5 +17,6 @@ https://github.com/ofvcode/Web-Dev-Setup.git
 cd Web-Dev-Setup
 chmod +x setup.sh
 ./setup.sh
+mv ../Web-Dev-Setup ../preferredName
 cd ../preferredName
 ```

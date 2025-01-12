@@ -10,3 +10,12 @@ Setup script that creates files and directories for a basic web development envi
 * Make sure to rename the repo to the specific folder name you want `mv ../Web-Dev-Setup ../preferredName`
 * Then `cd ../preferredName` 
 
+Just Commands: 
+
+`
+https://github.com/ofvcode/Web-Dev-Setup.git
+cd Web-Dev-Setup
+chmod +x setup.sh
+./setup.sh
+cd ../preferredName
+`

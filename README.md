@@ -13,6 +13,8 @@ Setup script that creates files and directories for a basic web development envi
 
 # Just Commands ( even easier to just copy and paste ): 
 
+1. This section assumes your running all commands at once
+2. You dont need to use the commands above if you are using the commands below
 ```
 echo ""
 echo ""

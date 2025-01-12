@@ -10,6 +10,8 @@ Setup script that creates files and directories for a basic web development envi
 * Make sure to rename "preferredName" to the specific folder name you want `mv ../Web-Dev-Setup ../preferredName`
 * Then `cd ../preferredName`
 * Removes setup.sh file `rm setup.sh`
+* Removes license file `rm LICENSE`
+* Removes README.md file `rm README.md`
 
 # Just Commands ( even easier to just copy and paste ): 
 
@@ -27,6 +29,8 @@ chmod +x setup.sh
 mv ../Web-Dev-Setup ../$preferredName
 cd ../$preferredName
 rm setup.sh
+rm LICENSE
+rm README.md
 echo ""
 echo "Setup Complete!"
 echo ""

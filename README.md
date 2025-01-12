@@ -12,10 +12,10 @@ Setup script that creates files and directories for a basic web development envi
 
 Just Commands: 
 
-`
+```
 https://github.com/ofvcode/Web-Dev-Setup.git
 cd Web-Dev-Setup
 chmod +x setup.sh
 ./setup.sh
 cd ../preferredName
-`
+```

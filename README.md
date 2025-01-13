@@ -33,5 +33,5 @@ rm LICENSE
 rm README.md
 echo ""
 echo "Setup Complete!"
-echo ""
+echo """
 ```
